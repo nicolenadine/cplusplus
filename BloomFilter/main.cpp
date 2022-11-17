@@ -1,6 +1,6 @@
-//  main.cpp
-//  Bloom filter
-
+// a command-line program which takes one command-line argument (argv[1])
+// and either builds a filter (first execution) or uses a filter (subsequent executions) 
+// to filter strings
 
 #include <fstream>
 #include <iostream>
